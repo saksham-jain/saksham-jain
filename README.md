@@ -1,4 +1,4 @@
-### Hey I'm Saksham Jain from India
+### Hi 👋 I'm Saksham Jain from 🇮🇳
 
 - I’m working as a Senior Software Engineer(Backend) at Weinvest - Digital Wealth Platform. 
 - Currently contributing to some interesting Ruby on Rails projects(lobsters, phlex, ecommerce)
